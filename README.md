@@ -9,17 +9,17 @@ This project aims to identify fraudulent credit card transactions by analyzing t
 
 ## Features
 
--Data preprocessing and cleaning
--Handling missing values using SimpleImputer
--Feature encoding using OneHotEncoder
--Train-test data splitting
--Fraud prediction using DecisionTreeClassifier
--Model evaluation and prediction analysis
+- Data preprocessing and cleaning
+- Handling missing values using SimpleImputer
+- Feature encoding using OneHotEncoder
+- Train-test data splitting
+- Fraud prediction using DecisionTreeClassifier
+- Model evaluation and prediction analysis
 
 ## Technologies Used
 
--Python
--Pandas
--NumPy
--Scikit-learn
--Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
